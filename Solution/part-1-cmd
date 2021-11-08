@@ -1,0 +1,2 @@
+ docker run -dit -p 9300:9300  --name harshkhare -v /home/ubuntu/inputfile:/csvserver/inputdata  infracloudio/csvserver:latest  
+
